@@ -1,7 +1,7 @@
 # chown
 
 > Change user and group ownership of files and directories.
-> More information: <https://www.gnu.org/software/coreutils/chown>.
+> More information: <https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html>.
 
 - Change the owner user of a file/directory:
 
@@ -25,4 +25,4 @@
 
 - Change the owner of a file/directory to match a reference file:
 
-`chown --reference={{path/to/reference_file}} {{path/to/file_or_directory}}`
+`chown --reference {{path/to/reference_file}} {{path/to/file_or_directory}}`
